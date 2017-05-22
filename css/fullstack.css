@@ -1,0 +1,11 @@
+h1, h2, h3{
+	font-family: 'Permanent Marker', cursive;
+	text-align: center;
+}
+body{
+    background-image: url("../images/i guess full stack idk.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    text-align: center;
+}
